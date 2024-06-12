@@ -13,7 +13,7 @@ const HeroPage = () => {
                     </div>
                 </div>
                 <div className="w-11/12 lg:w-3/6">
-                    <img src="prism.png" />
+                    <img src="/GFE-hero-simple/prism.png" />
                 </div>
             </div>
         </div>
